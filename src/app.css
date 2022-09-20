@@ -10,3 +10,6 @@ p {
     height: 100vh;
     overflow: scroll;
 }
+lightning-icon{
+    margin-right: 15px;
+}
